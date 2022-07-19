@@ -17,6 +17,8 @@ commented version):
 
 Screenshot:
 
+The dots on the last line are a "heartbeat": one dot per second. See start.c.
+
 ![Custom binary on QEMU](rpi2.png)
 
 Commented version of doit.sh:

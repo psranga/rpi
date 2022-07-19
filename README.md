@@ -5,6 +5,12 @@ Running the demo:
     cd v0   # important
     bash doit.sh
 
+Screenshot:
+
+The dots on the last line are a "heartbeat": one dot per second. See start.c.
+
+![Custom binary on QEMU](v0/rpi2.png)
+
 If you want to type the commands instead, here's just the commands (see below for a
 commented version):
 
