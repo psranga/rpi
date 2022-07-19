@@ -17,7 +17,7 @@ commented version):
 
 Screenshot:
 
-![Custom binary on QEMU](rpi.png)
+![Custom binary on QEMU](rpi2.png)
 
 Commented version of doit.sh:
 
