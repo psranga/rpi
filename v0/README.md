@@ -15,6 +15,10 @@ commented version):
     mkfs.ext2 -d boot rawfs.img
     qemu-system-arm rawfs.img -kernel ../kernel-qemu-4.4.34-jessie -cpu arm1176 -m 256 -M versatilepb -serial stdio -append "init=command.com root=/dev/sda rootfstype=ext2 ro" -no-reboot
 
+Screenshot:
+
+![Custom binary on QEMU](rpi.png)
+
 Commented version of doit.sh:
 
     #!/bin/bash
